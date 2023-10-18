@@ -14,12 +14,12 @@ or refer to [BLHheli 1wire code](https://drive.google.com/file/d/1mNtyFT8vCCuluO
 
 ## Hardware Connection
 
-USB serial port adapter --- CH32V003
- VCC     ---     VCC
- GND     ---     GND
- RX      ---     PD5
- TX      ---     PD6
+USB serial port adapter --- CH32V003 <br>
+ VCC     ---     VCC<br>
+ GND     ---     GND<br>
+ RX      ---     PD5<br>
+ TX      ---     PD6<br>
  
- CH32V003   ---      ESC
- GND        ---      GND
- PC1        ---      SI
+ CH32V003   ---      ESC<br>
+ GND        ---      GND<br>
+ PC1        ---      SI<br>
